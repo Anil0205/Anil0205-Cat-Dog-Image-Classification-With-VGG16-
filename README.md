@@ -28,7 +28,7 @@ VGG-16 is a convolutional neural network that is 16 layers deep. You can load a 
 
 
 
-![App Screenshot](https://www.researchgate.net/profile/Max-Ferguson/publication/322512435/figure/fig3/AS:697390994567179@1543282378794/Fig-A1-The-standard-VGG-16-network-architecture-as-proposed-in-32-Note-that-only.png)
+
 
 
 
